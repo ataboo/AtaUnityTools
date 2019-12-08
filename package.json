@@ -1,0 +1,17 @@
+{
+  "name": "com.atasoft.ataunitytools",
+  "version": "0.1.1",
+  "displayName": "Atasoft Unity Tools",
+  "description": "Library of serialization and math helpers.  Lat/Long geo coordinates package.",
+  "keywords": [
+    "utility",
+    "serialization",
+    "geometric",
+    "coordinates"
+  ],
+  "author": {
+    "name": "Alex Raboud",
+    "email": "doubar2001@gmail.com"
+  },
+  "type": "library"
+}
